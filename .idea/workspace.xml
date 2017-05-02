@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76135d6b-387a-4a97-9f25-65e8aa0b0d95" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="variables.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/variables.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subnets.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subnets.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+              <folding>
+                <marker date="1493745372000" expanded="true" signature="169:194" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="212:238" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="466:491" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="509:535" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="763:788" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="806:832" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1149:1174" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1192:1219" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1450:1475" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1493:1520" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1751:1776" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1794:1821" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2129:2154" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2172:2194" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2272:2325" ph="..." />
+                <marker date="1493745372000" expanded="true" signature="2415:2440" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2458:2480" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2701:2726" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2744:2766" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="3042:3063" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="3071:3092" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="3100:3121" ph="${...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" column="24" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+              <folding>
+                <marker date="1493745372000" expanded="true" signature="153:178" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="238:279" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="458:483" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="505:533" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="610:635" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="657:685" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2281:2307" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="2329:2360" ph="${...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="outputs.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outputs.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1513">
+              <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+              <folding>
+                <marker date="1493745372000" expanded="true" signature="225:250" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="286:319" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="379:412" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="453:486" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="527:560" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="599:624" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="663:688" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="727:752" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="813:847" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="889:923" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="965:999" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1039:1065" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1105:1131" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1171:1197" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1248:1277" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1314:1343" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1380:1409" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1444:1465" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1500:1521" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1556:1577" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="1629:1670" ph="${...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nat.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nat.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1493735965000" expanded="true" signature="177:202" ph="${...}" />
+                <marker date="1493735965000" expanded="true" signature="223:242" ph="${...}" />
+                <marker date="1493735965000" expanded="true" signature="417:442" ph="${...}" />
+                <marker date="1493735965000" expanded="true" signature="463:482" ph="${...}" />
+                <marker date="1493735965000" expanded="true" signature="657:682" ph="${...}" />
+                <marker date="1493735965000" expanded="true" signature="703:722" ph="${...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gateway.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <marker date="1493745372000" expanded="true" signature="63:88" ph="${...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding>
+                <marker date="1493745372000" expanded="true" signature="145:167" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="185:204" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="222:239" ph="${...}" />
+                <marker date="1493745372000" expanded="true" signature="281:298" ph="${...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vpc.tf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vpc.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+              <folding>
+                <marker date="1493743252000" expanded="true" signature="57:74" ph="${...}" />
+                <marker date="1493743252000" expanded="true" signature="156:171" ph="${...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PUB</find>
+      <find>PRIV</find>
+      <find>Development-</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>PRIV</replace>
+      <replace>DB</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vpc.tf" />
+        <option value="$PROJECT_DIR$/variables.tf" />
+        <option value="$PROJECT_DIR$/routes.tf" />
+        <option value="$PROJECT_DIR$/outputs.tf" />
+        <option value="$PROJECT_DIR$/subnets.tf" />
+        <option value="$PROJECT_DIR$/gateway.tf" />
+        <option value="$PROJECT_DIR$/config.tf" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vpc" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vpc" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vpc" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="vpc" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76135d6b-387a-4a97-9f25-65e8aa0b0d95" name="Default" comment="" />
+      <created>1493736039722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493736039722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vpc.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding>
+            <marker date="1493743252000" expanded="true" signature="57:74" ph="${...}" />
+            <marker date="1493743252000" expanded="true" signature="156:171" ph="${...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subnets.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+          <folding>
+            <marker date="1493745372000" expanded="true" signature="169:194" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="212:238" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="466:491" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="509:535" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="763:788" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="806:832" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1149:1174" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1192:1219" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1450:1475" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1493:1520" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1751:1776" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1794:1821" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2129:2154" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2172:2194" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2272:2325" ph="..." />
+            <marker date="1493745372000" expanded="true" signature="2415:2440" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2458:2480" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2701:2726" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2744:2766" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="3042:3063" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="3071:3092" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="3100:3121" ph="${...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="24" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+          <folding>
+            <marker date="1493745372000" expanded="true" signature="153:178" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="238:279" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="458:483" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="505:533" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="610:635" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="657:685" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2281:2307" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="2329:2360" ph="${...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputs.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="1" lean-forward="false" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+          <folding>
+            <marker date="1493745372000" expanded="true" signature="225:250" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="286:319" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="379:412" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="453:486" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="527:560" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="599:624" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="663:688" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="727:752" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="813:847" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="889:923" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="965:999" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1039:1065" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1105:1131" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1171:1197" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1248:1277" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1314:1343" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1380:1409" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1444:1465" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1500:1521" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1556:1577" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="1629:1670" ph="${...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nat.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493735965000" expanded="true" signature="177:202" ph="${...}" />
+            <marker date="1493735965000" expanded="true" signature="223:242" ph="${...}" />
+            <marker date="1493735965000" expanded="true" signature="417:442" ph="${...}" />
+            <marker date="1493735965000" expanded="true" signature="463:482" ph="${...}" />
+            <marker date="1493735965000" expanded="true" signature="657:682" ph="${...}" />
+            <marker date="1493735965000" expanded="true" signature="703:722" ph="${...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1493745372000" expanded="true" signature="63:88" ph="${...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding>
+            <marker date="1493745372000" expanded="true" signature="145:167" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="185:204" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="222:239" ph="${...}" />
+            <marker date="1493745372000" expanded="true" signature="281:298" ph="${...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
