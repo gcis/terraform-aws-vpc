@@ -1,3 +1,6 @@
+# :bangbang:
+# THIS REPOSITORY IS OUT OF DATE
+
 # Terraform AWS - VPC
 
 This simple terraform project helps you set up an AWS VPC with public and
